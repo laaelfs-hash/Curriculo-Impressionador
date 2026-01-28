@@ -28,7 +28,7 @@ A professional, clean, and easy-to-use resume template built with LaTeX. **You d
 
 If you are not familiar with GitHub or coding, the easiest way to use this template is with **Overleaf** (a website that edits LaTeX documents online).
 
-> 🎥 **Watch the tutorial video:** [Click here to watch a step-by-step guide](https://x.com/devcelio/status/2014515454337810803?s=20)
+> 🎥 **Watch the tutorial video:** 
 
 1.  **Download this template**: Click the green **Code** button at the top right of this page and select **Download ZIP**.
 2.  **Create an account on Overleaf**: Go to [overleaf.com](https://www.overleaf.com) and sign up (it's free).
@@ -93,7 +93,7 @@ Um modelo de currículo profissional, limpo e fácil de usar, feito em LaTeX. **
 
 Se você não tem familiaridade com GitHub ou código, a maneira mais fácil é usar o **Overleaf** (um site para editar documentos LaTeX online).
 
-> 🎥 **Veja o vídeo tutorial:** [Clique aqui para ver o guia passo a passo](https://x.com/devcelio/status/2014515454337810803?s=20)
+> 🎥 **Veja o vídeo tutorial:**
 
 1.  **Baixe este modelo**: Clique no botão verde **Code** no canto superior direito desta página e selecione **Download ZIP**.
 2.  **Crie uma conta no Overleaf**: Acesse [overleaf.com](https://www.overleaf.com) e cadastre-se (é grátis).
