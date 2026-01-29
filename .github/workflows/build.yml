@@ -15,8 +15,8 @@ jobs:
         uses: xu-cheng/latex-action@v4
         with:
           root_file: |
-            resumes/en/resume.tex
-            resumes/pt-br/curriculo.tex
+            Resumes/en/Resume.tex
+            Resumes/pt-br/curriculo.tex
       
       - name: Upload generated PDFs to GitHub Actions Artifacts
         uses: actions/upload-artifact@v5
