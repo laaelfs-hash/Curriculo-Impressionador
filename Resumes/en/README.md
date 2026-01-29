@@ -78,7 +78,7 @@ This tips was extracted from [Harvard Website](https://careerservices.fas.harvar
 | **Helping** | Assessed, Assisted, Clarified, Coached, Counseled, Demonstrated, Diagnosed, Educated, Enhanced, Expedited, Facilitated, Familiarized, Guided, Motivated, Participated, Proposed, Provided, Referred, Rehabilitated, Represented, Served, Supported |
 | **Organizational** | Approved, Accelerated, Added, Arranged, Broadened, Cataloged, Centralized, Changed, Classified, Collected, Compiled, Completed, Controlled, Defined, Dispatched, Executed, Expanded, Gained, Gathered, Generated, Implemented, Inspected, Launched, Monitored, Operated, Organized, Prepared, Processed, Purchased, Recorded, Reduced, Reinforced, Retrieved, Screened, Selected, Simplified, Sold, Specified, Steered, Structured, Systematized, Tabulated, Unified, Updated, Utilized, Validated, Verified |
 
-## Looking for inspiration?
+## Looking for inspiration ?
 You can also find some cool resume examples at:
 - [MIT Sample resumes and cover letters](https://capd.mit.edu/resources/sample-resumes/)
 - [Harvard Create a Resume/CV or Cover Letter](https://careerservices.fas.harvard.edu/channels/create-a-resume-cv-or-cover-letter/#uc_resource_tiles-4)
